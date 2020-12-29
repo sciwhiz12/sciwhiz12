@@ -3,7 +3,7 @@ About Me
 
 Hello! I am known as `sciwhiz12`. I am a hobbyist programmer, mostly working on stuff related to [Minecraft Forge][forge] and mods made using Forge. I am also an administrator on the [Forge Community Wiki][fcw], and a maintainer of the [FCW: JavaDocs project][fcw_javadocs].
 
-I can be contacted through the email of `sciwhiz12@sciwhiz12.tk`, or through Discord as `sciwhiz12#1286` (I am usually active on The Forge Project [discord server][forge_discord] and on the [Minecraft Mod Development][mmd] [discord server][mmd_discord].
+I can be contacted through the email of `sciwhiz12@sciwhiz12.tk`, or through Discord as `sciwhiz12#1286` (I am usually active on The Forge Project [discord server][forge_discord] and on the [Minecraft Mod Development][mmd] [discord server][mmd_discord].)
 
 Have a nice day!
 

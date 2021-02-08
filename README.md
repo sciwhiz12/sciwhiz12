@@ -8,7 +8,7 @@ I can be contacted through the email of `sciwhiz12@sciwhiz12.tk`, or through Dis
 Have a nice day!
 
 [forge]: https://github.com/MinecraftForge/MinecraftForge
-[fcw]: https://forge.gemwire.uk/index.php?title=User:Sciwhiz12
+[fcw]: https://forge.gemwire.uk/index.php?title=User:SciWhiz12
 [fcw_javadocs]: https://github.com/forgecommunitywiki/javadocs
 [forge_discord]: https://discord.gg/UvedJ9m
 [mmd]: https://mcmoddev.com/

@@ -3,7 +3,7 @@ About Me
 
 Hello! I am known as `sciwhiz12`. I am a hobbyist programmer, mostly working on stuff related to modded Minecraft. I am the current toolchain team lead and member of the reviewers team of [ParchmentMC][parchment], and a bot maintainer for [Minecraft Mod Development][mmd].
 
-I was a former Triage team member and community moderator for Minecraft Forge, and formerly the head administrator on the [Forge Community Wiki][fcw].[1]
+I was a former Triage team member and community moderator for Minecraft Forge, and formerly the head administrator on the [Forge Community Wiki][fcw].[^1]
 
 I can be contacted through my email as listed on GitHub, or through Discord as `sciwhiz12` (I can be contacted through the [Minecraft Mod Development][mmd] [discord server][mmd_discord].)
 

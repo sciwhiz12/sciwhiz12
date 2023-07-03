@@ -11,7 +11,7 @@ If you appreciate my work and want to give something in return, you can [sponsor
 
 Have a nice day!
 
-[1]: Unfortunately, I was removed from the team by unforunate circumstances, which prompted my resignation from the wiki staff team per a previously declared resolve to resign if I was forcibly removed.
+[^1]: Unfortunately, I was forcibly removed from the team by unforunate circumstances involving grievances against the project leadership regarding the Code of Conduct, which prompted my resignation from the wiki staff team per a previously declared resolve to resign if I was forcibly removed.
 
 [forge]: https://github.com/MinecraftForge/MinecraftForge
 [fcw]: https://forge.gemwire.uk/index.php?title=User:SciWhiz12
